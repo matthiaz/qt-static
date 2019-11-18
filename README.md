@@ -1,6 +1,7 @@
 # qt-static
 
 This repo contains static linux64 builds of qt
+The compile was done like this:
 
 ```
 git clone git://code.qt.io/qt/qt5.git
